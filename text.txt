@@ -1,1 +1,1 @@
-This is to try what git can perform
+This is to show what git can perform. Git is used most importantly for flexibility and collaborations.

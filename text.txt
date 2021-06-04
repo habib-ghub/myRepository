@@ -1,1 +1,2 @@
 This is to show what git can perform. Git is used most importantly for flexibility and collaborations.
+git remote add origin "url of remote repo"

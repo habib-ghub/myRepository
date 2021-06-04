@@ -1,2 +1,10 @@
 This is to show what git can perform. Git is used most importantly for flexibility and collaborations.
-git remote add origin "url of remote repo"
+
+To connect local repository with remote:
+ git remote add origin "Url of your remote repository" 
+To send local commits to to remote repository:
+ git push origin master
+To pull the changes from remote repo to local machine:
+ git pull origin master
+To create a copy of remote repo in local working directory:
+git clone "url of remote repo"Programming with mosh is fun
